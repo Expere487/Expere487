@@ -50,7 +50,7 @@
 <a href="https://linkedin.com/in/onuralpp"><img src="https://img.shields.io/badge/-Onur Alp Karakaya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:onur@selfprof.com"><img src="https://img.shields.io/badge/-Work Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:alpkrky1@gmail.com"><img src="https://img.shields.io/badge/-Personal Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_thedionysos_"><img src="https://img.shiel@ds.io/badge/-@_thedionysos-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_thedionysos_"><img src="https://img.shiel@ds.io/badge/-_thedionysos-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.behance.net/alpkrky"><img src="https://img.shields.io/badge/-My Shit Designs?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
