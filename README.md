@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Onur Alp Karakaya Banner](https://media.licdn.com/dms/image/D4D16AQEU6ZBGH7ZRKw/profile-displaybackgroundimage-shrink_350_1400/0/1674318544748?e=1682553600&v=beta&t=H8mYRwosuhXGsUUX6bc2G9uMvGMQYR3QK-YNBcCVMyo)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
