@@ -38,8 +38,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Expere487&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Expere487&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Expere487&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Expere487&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -55,6 +55,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [AlpKrky](https://github.com/Expere487)
 
 Last Edited on: 11/12/2020
