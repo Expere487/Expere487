@@ -1,8 +1,6 @@
 ![Onur Alp Karakaya Banner](https://alpkrky.com/upload/IMG_20220516_232049_935.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Expere487/Expere487/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Onur</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
