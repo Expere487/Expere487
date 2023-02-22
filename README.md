@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can reach me at contact@alpkrky.com! I will try to respond as quickly as I can.\
 📄 &nbsp;For more details about me, please take a look at [My CV](https://alpkrky.com/about me). I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Expere487/Expere487/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
