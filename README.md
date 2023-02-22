@@ -51,7 +51,7 @@
 <a href="mailto:onur@selfprof.com"><img src="https://img.shields.io/badge/-Work Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:alpkrky1@gmail.com"><img src="https://img.shields.io/badge/-Personal Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_thedionysos_"><img src="https://img.shields.io/badge/-@_thedionysos_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.behance.net/alpkrky"><img src="https://img.shields.io/badge/-My Shit Designs?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.behance.net/alpkrky"><img src="https://img.shields.io/badge/-@alpkrky-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
 -----
